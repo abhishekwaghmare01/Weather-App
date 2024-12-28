@@ -6,8 +6,7 @@ const options = {
 	}
 };
 
- fetch('https://yahoo-weather5.p.rapidapi.com/weather?location=sunnyvale&format=json&u=f', options)
+ fetch('https://yahoo-weather5.p.rapidapi.com/weather?location=Chicago&format=json&u=f', options)
 	.then(response => response.json())
     .then(response => console.log(response))
     .catch(err => console.error(err));
-    
