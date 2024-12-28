@@ -75,11 +75,12 @@ API Endpoint Example:
 https://weatherapi-com.p.rapidapi.com/alerts.json?q=city_name
 
 License
-
 This project is licensed under the MIT License.
 
-Contact
+![image](https://github.com/user-attachments/assets/f9a652ad-ce52-4030-9ac1-c984a9f63985)
 
+
+Contact :
 Developed by Abhishek Waghmare 
 GitHub: abhishekwaghmare01 
-Email: abhishek.waghmare3210@gmail.com
+Email: abhiwaghmare3210@gmail.com
